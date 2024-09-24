@@ -17,7 +17,7 @@ const routes = {
   "ecr.aliniu.top": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.aliniu.so": dockerHub,
 };
 
 function routeByHosts(host) {
